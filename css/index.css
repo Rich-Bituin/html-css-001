@@ -1,0 +1,8 @@
+.main-header-menu-item-link,
+.main-header-menu-item-tel {
+  text-decoration: none;
+}
+
+.main-header-cta {
+  text-transform: capitalize;
+}
